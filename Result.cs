@@ -17,7 +17,7 @@ public record Result
             if (HomeScore > AwayScore)
                 return ResultTeam.HomeWin;
             if (HomeScore < AwayScore)
-                return ResultTeam.HomeWin;
+                return ResultTeam.AwayWin;
 
             return ResultTeam.Draw;
         }
