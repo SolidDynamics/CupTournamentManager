@@ -15,10 +15,18 @@
   <EmbeddedResource Include="nlog.config">
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </EmbeddedResource>
+  <EmbeddedResource Include="appsettings.Secret.json">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </EmbeddedResource>
 </ItemGroup>
 <ItemGroup>
+  <PackageReference Include="fuzzysharp" Version="2.0.2" />
+  <PackageReference Include="htmlagilitypack" Version="1.11.57" />
+  <PackageReference Include="microsoft.extensions.configuration" Version="8.0.0" />
+  <PackageReference Include="microsoft.extensions.configuration.json" Version="8.0.0" />
   <PackageReference Include="NLog" Version="5.2.7" />
   <PackageReference Include="NLog.Config" Version="4.7.15" />
   <PackageReference Include="NLog.Extensions.Logging" Version="5.3.7" />
+  <PackageReference Include="Svg" Version="3.4.6" />
 </ItemGroup>
 </Project>

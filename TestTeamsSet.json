@@ -1,13 +1,52 @@
 [
-      {"rank": 1, "name": "Manchester City"},
-      {"rank": 2, "name": "Liverpool"},
-      {"rank": 3, "name": "Chelsea"},
-      {"rank": 4, "name": "Tottenham Hotspur"},
-      {"rank": 5, "name": "Arsenal"},
-      {"rank": 6, "name": "Manchester United"},
-      {"rank": 7, "name": "West Ham United"},
-      {"rank": 8, "name": "Leicester City"},
-      {"rank": 9, "name": "Brighton & Hove Albion"},
-      {"rank": 10, "name": "Wolverhampton Wanderers"}
-    ]
-  
+  {
+    "rank": 1,
+    "name": "Manchester City",
+    "LogoBase64": null
+  },
+  {
+    "rank": 2,
+    "name": "Liverpool",
+    "LogoBase64": null
+  },
+  {
+    "rank": 3,
+    "name": "Chelsea",
+    "LogoBase64": null
+  },
+  {
+    "rank": 4,
+    "name": "Tottenham Hotspur",
+    "LogoBase64": null
+  },
+  {
+    "rank": 5,
+    "name": "Arsenal",
+    "LogoBase64": null
+  },
+  {
+    "rank": 6,
+    "name": "Manchester United",
+    "LogoBase64": null
+  },
+  {
+    "rank": 7,
+    "name": "West Ham United",
+    "LogoBase64": null
+  },
+  {
+    "rank": 8,
+    "name": "Leicester City",
+    "LogoBase64": null
+  },
+  {
+    "rank": 9,
+    "name": "Brighton \u0026 Hove Albion",
+    "LogoBase64": null
+  },
+  {
+    "rank": 10,
+    "name": "Wolverhampton Wanderers",
+    "LogoBase64": null
+  }
+]

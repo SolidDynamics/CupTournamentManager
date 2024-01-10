@@ -10,6 +10,8 @@ namespace FifaCupDraw;
          [JsonPropertyName("name")]
         public string Name { get; set; }
 
+        public string LogoBase64 { get; set; }
+
         public override string ToString(){
             return Name;
         }
